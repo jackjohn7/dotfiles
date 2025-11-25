@@ -30,6 +30,7 @@ M.servers = {
   "lua-language-server",
   "zls",
   "hls",
+  "ocamllsp",
 }
 
 function M.setup()
