@@ -31,6 +31,7 @@ M.servers = {
   "zls",
   "hls",
   "ocamllsp",
+  "nil_ls",
 }
 
 function M.setup()
