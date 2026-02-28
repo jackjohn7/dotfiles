@@ -55,4 +55,5 @@
   "scrollbar": {
     "show": "never",
   },
+  "buffer_line_height": "standard",
 }
