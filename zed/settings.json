@@ -1,0 +1,58 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "relative_line_numbers": "enabled",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "icon_theme": "Zed (Default)",
+  "vim_mode": true,
+  "ui_font_size": 14,
+  "buffer_font_size": 18,
+  "buffer_font_family": "MartianMono Nerd Font Mono",
+  "ui_font_family": "MartianMono Nerd Font Mono",
+  "theme": "Catppuccin Mocha",
+  "title_bar": {
+    "show_onboarding_banner": false,
+    "show_user_menu": false,
+    "show_sign_in": false,
+    "show_project_items": false,
+    "show_branch_name": false,
+    "show_menus": false,
+    "show_branch_icon": false,
+    "show_user_picture": false,
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false,
+  },
+  "status_bar": {
+    "experimental.show": false,
+  },
+  "project_panel": {
+    "starts_open": false,
+    "hide_root": true,
+    "scrollbar": {
+      "show": "never",
+    },
+  },
+  "file_finder": {
+    "modal_max_width": "large",
+  },
+  "gutter": {
+    "min_line_number_digits": 0,
+  },
+  "drag_and_drop_selection": {
+    "enabled": false,
+  },
+  "scrollbar": {
+    "show": "never",
+  },
+}
